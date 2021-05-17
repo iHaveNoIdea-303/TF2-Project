@@ -101,7 +101,7 @@ function setup(){
 }
 function draw(){
     Engine.update(engine)
-    background("white")
+    background("green")
     drawSprites()
     textSize(20)
     textFont(font)
